@@ -10,7 +10,7 @@ Kubernetes architecture ko samajhne ke liye, humein yeh dekhna padega ki kaise y
 -------------------------------------------------------------------------Control Plane Nodes---------------------------------------------------------------
     Yeh wo nodes hote hain jo cluster ka management aur decision-making ka kaam karte hain. Inko aap cluster ke "brain" jaisa samajh lo. Iske andar kuch key components hote hain:
 
- --------------------------------------------------------------------![Screenshot 2024-09-18 234727](https://github.com/user-attachments/assets/940d486f-108c-4318-873f-0317e556faec)---------------------------------------------------------
+ -------------------------------------------![Screenshot 2024-09-18 234727](https://github.com/user-attachments/assets/940d486f-108c-4318-873f-0317e556faec)------------------------------------------
 
 
    --> API Server: Yeh wo component hai jo Kubernetes ke baaki parts ko connect karta hai. Jaise kisi app ko access karne ke liye API banate ho, waise hi Kubernetes ke control 
@@ -40,7 +40,7 @@ Kubernetes architecture ko samajhne ke liye, humein yeh dekhna padega ki kaise y
 
 
 
-----------------------------------------------------------------![Screenshot 2024-09-18 235111](https://github.com/user-attachments/assets/e1a7cd71-86db-480d-9c4f-75e66bba32ee)---------------------------------------------
+---------------------------------------------![Screenshot 2024-09-18 235111](https://github.com/user-attachments/assets/e1a7cd71-86db-480d-9c4f-75e66bba32ee)---------------------------------------------
 
    
 
